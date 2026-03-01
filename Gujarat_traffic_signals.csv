@@ -1,0 +1,73 @@
+type,id,lat,lon,tags,city
+node,429229020,23.0326816,72.560115,{'highway': 'traffic_signals'},Ahmedabad
+node,440340152,22.9955248,72.5334578,"{'highway': 'traffic_signals', 'name': 'Vishala Circle', 'traffic_signals': 'signal'}",Ahmedabad
+node,440340170,22.9954682,72.533634,"{'highway': 'traffic_signals', 'name': 'Vishala Circle', 'traffic_signals': 'signal'}",Ahmedabad
+node,1779260093,23.0426653,72.5490698,{'highway': 'traffic_signals'},Ahmedabad
+node,1779260094,23.0426838,72.5491598,{'highway': 'traffic_signals'},Ahmedabad
+node,1779260095,23.0427263,72.5490976,{'highway': 'traffic_signals'},Ahmedabad
+node,1779260096,23.0426252,72.5491345,{'highway': 'traffic_signals'},Ahmedabad
+node,1782667141,23.0266433,72.5713955,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,1784529282,23.0365119,72.5610863,{'highway': 'traffic_signals'},Ahmedabad
+node,1784529286,23.0366445,72.5611298,{'highway': 'traffic_signals'},Ahmedabad
+node,1784529287,23.0364753,72.5611659,{'highway': 'traffic_signals'},Ahmedabad
+node,1784529293,23.0366127,72.5612108,{'highway': 'traffic_signals'},Ahmedabad
+node,1784569659,23.0326363,72.5600001,{'highway': 'traffic_signals'},Ahmedabad
+node,1784569660,23.0326252,72.5600945,{'highway': 'traffic_signals'},Ahmedabad
+node,1784569663,23.0326951,72.5600308,{'highway': 'traffic_signals'},Ahmedabad
+node,1788554998,23.0223911,72.5559952,{'highway': 'traffic_signals'},Ahmedabad
+node,1788555002,23.0222915,72.5562383,"{'button_operated': 'yes', 'crossing': 'traffic_signals', 'highway': 'traffic_signals', 'traffic_signals:sound': 'yes'}",Ahmedabad
+node,1788607237,23.0195352,72.5574355,"{'button_operated': 'no', 'crossing': 'traffic_signals', 'crossing_ref': 'zebra', 'highway': 'traffic_signals'}",Ahmedabad
+node,3240597198,23.0198156,72.5574389,"{'crossing': 'traffic_signals', 'highway': 'traffic_signals'}",Ahmedabad
+node,3240597200,23.0226084,72.5563766,{'highway': 'traffic_signals'},Ahmedabad
+node,3240597201,23.0227054,72.5559827,{'highway': 'traffic_signals'},Ahmedabad
+node,3240602009,23.0110402,72.5629563,{'highway': 'traffic_signals'},Ahmedabad
+node,3240602010,23.0110618,72.5631435,{'highway': 'traffic_signals'},Ahmedabad
+node,3240602011,23.0112559,72.5631294,{'highway': 'traffic_signals'},Ahmedabad
+node,3240602012,23.0112667,72.5629068,{'highway': 'traffic_signals'},Ahmedabad
+node,3240602013,23.0226961,72.556187,{'highway': 'traffic_signals'},Ahmedabad
+node,3242190325,23.0196582,72.5572845,"{'crossing': 'traffic_signals', 'crossing_ref': 'zebra', 'highway': 'traffic_signals'}",Ahmedabad
+node,3245983786,23.0141608,72.5650202,{'highway': 'traffic_signals'},Ahmedabad
+node,3245983787,23.0147748,72.5641452,"{'camera:mount': 'pole', 'camera:type': 'fixed', 'highway': 'traffic_signals', 'man_made': 'surveillance', 'name': 'Cam_04', 'surveillance': 'outdoor', 'surveillance:type': 'camera', 'surveillance:zone': 'traffic'}",Ahmedabad
+node,3245983788,23.0142161,72.5650728,{'highway': 'traffic_signals'},Ahmedabad
+node,3245983789,23.0142506,72.5650015,{'highway': 'traffic_signals'},Ahmedabad
+node,5287518049,23.0145846,72.5304736,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,5287518050,23.0146783,72.5304539,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,5287518051,23.014702,72.5306804,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,5287518052,23.0146147,72.5307019,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,5287518053,23.0145294,72.5305336,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,5287518054,23.0145428,72.530624,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,5287518055,23.014753,72.5305982,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,5287518056,23.0147415,72.5305101,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,7159104517,22.9955534,72.5335793,"{'highway': 'traffic_signals', 'name': 'Vishala Circle'}",Ahmedabad
+node,7159104518,22.9954377,72.5335129,"{'highway': 'traffic_signals', 'name': 'Vishala Circle'}",Ahmedabad
+node,9002346717,23.0192865,72.5299821,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346718,23.0192419,72.5299885,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346719,23.0191969,72.5300929,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346720,23.0191881,72.5301937,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346721,23.0193461,72.5301987,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346722,23.0192245,72.5302636,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346723,23.019352,72.530097,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346724,23.0192724,72.5302702,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346725,23.0244694,72.5299531,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346726,23.0243151,72.5299274,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346727,23.0245221,72.5301261,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346728,23.0245016,72.5304244,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346729,23.0241533,72.5301066,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,9002346730,23.0241448,72.5304172,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,11936664621,23.0308751,72.571828,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,11936675598,23.0339976,72.5714783,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,11936675903,23.0305848,72.5718062,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,11936675950,23.028793,72.5724444,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,11936675951,23.028532,72.572476,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,12799620984,23.0265182,72.5711408,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,12799620985,23.0268194,72.5712479,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Ahmedabad
+node,12912615639,23.0526414,72.6101555,"{'highway': 'traffic_signals', 'traffic_signals': 'signal', 'traffic_signals:direction': 'backward'}",Ahmedabad
+node,12912615659,23.0524965,72.6103859,"{'highway': 'traffic_signals', 'traffic_signals': 'signal', 'traffic_signals:direction': 'forward'}",Ahmedabad
+node,12912615660,23.0524229,72.6101933,"{'highway': 'traffic_signals', 'traffic_signals': 'signal', 'traffic_signals:direction': 'forward'}",Ahmedabad
+node,12912615661,23.0527032,72.610318,"{'highway': 'traffic_signals', 'traffic_signals': 'signal', 'traffic_signals:direction': 'forward'}",Ahmedabad
+node,2864034874,21.2004593,72.7689232,{'highway': 'traffic_signals'},Surat
+node,319311067,22.2374158,73.1887367,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Vadodara
+node,319323579,22.3038509,73.1950346,"{'highway': 'traffic_signals', 'name': 'Kothi Char Rasta'}",Vadodara
+node,319840896,22.3037601,73.2011135,"{'highway': 'traffic_signals', 'name': 'Tower Char Rasta'}",Vadodara
+node,8524377328,22.2374246,73.1886361,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Vadodara
+node,8531787369,22.2375155,73.1886531,"{'highway': 'traffic_signals', 'traffic_signals': 'signal'}",Vadodara
